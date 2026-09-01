@@ -220,11 +220,11 @@ The new French Republic, humbled but intact, is eager for friends after its defe
 
 @german_trade
 title: Sign a naturalization convention with the German Empire.
-view-if: franco_prussian_stance != ""
+view-if: franco_prussian_stance != "" and german_trade != 1
 choose-if: budget >= 1
 subtitle: -1 budget
 unavailable-subtitle: We lack the budget to pursue new trade agreements.
-on-arrival: germany_relation += 3; immigrant_laborers_rep += 2; budget -= 1;
+on-arrival: germany_relation += 3; immigrant_laborers_rep += 5; budget -= 1; german_trade = 1;
 
 Modeled on Bancroft's earlier treaties with the German states, we negotiate an agreement protecting naturalized German-Americans from being conscripted into Prussian military service should they visit family back home. It is a small legal document that means a great deal to a very large community of voters.
 
@@ -324,4 +324,4 @@ We have been attacked by a European fleet in the Caribbean! Our Navy was defeate
 @flee
 on-arrival: navy_strength -= 5; middle_class_rep -= 2; middle_class_dem += 4
 
-We escape from the enemy navy and we arrive home, but the populous says that we are cowards for not fighting. Also, Europe sees us as weak.
+We escape from the enemy navy and we arrive home, but the populace says that we are cowards for not fighting. Also, Europe sees us as weak.
