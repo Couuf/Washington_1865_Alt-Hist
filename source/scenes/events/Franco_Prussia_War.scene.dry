@@ -27,7 +27,7 @@ Where do our sympathies lie?
 
 - @favor_france: Support the new French Republic
 - @favor_prussia: Side with the new nation of Germany
-- @stay_neutral: We have no intrest in European Affairs
+- @stay_neutral: We have no interest in European Affairs
 
 @favor_france
 on-arrival: {!
