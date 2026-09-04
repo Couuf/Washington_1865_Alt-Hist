@@ -3,7 +3,6 @@ subtitle: The Rebel Leader on Trial
 tags: event
 view-if: year = 1866 and month >= 10 and davis_trial = 1
 max-visits: 1
-on-arrival: {!
   
 
 = Jefferson Davis on Trial
