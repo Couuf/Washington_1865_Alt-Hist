@@ -44,9 +44,9 @@ We move to de-politicize the Post Office and institute merit hiring. Though it e
 
 @reform_act
 subtitle: The <span style="color: #B5651D;">**Conservatives**</span> will not be pleased.
-choose-if: house_majority > 1 and senate_majority > 1
+choose-if: house_majority > 1 and sen_majority > 1
 unavailable-subtitle: We don't control Congress.
-view-if: civil_service_reform = 3
+view-if: civil_service_reform = 3 and reform_act = 0
 on-arrival: liberal_strength +=3; liberal_dissent -=5; conservative_dissent +=6; reform_act = 1; middle_class_rep += 1; workers_rep += 3
 
 We have successfully passed the Civil Service Reform Act! Reformers are very pleased with us, but loyal <span style="color: #B5651D;">**Conservative**</span> party members who are used to receiving rewards are outraged.
