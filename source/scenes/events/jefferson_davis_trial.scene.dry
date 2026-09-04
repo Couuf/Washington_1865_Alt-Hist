@@ -1,0 +1,19 @@
+title: Jefferson Davis' Treason Trial
+subtitle: The Rebel Leader on Trial
+tags: event
+view-if: year = 1866 and month >= 10 and davis_trial = 1
+max-visits: 1
+on-arrival: {!
+  
+
+= Jefferson Davis on Trial
+
+The day of Jefferson Davis' treason trial has arrived. 
+
+- @verdict: We can only hope the court rules correctly...
+
+@verdict
+on-arrival: radical_strength += 1; radical_dissent -= 2; moderate_strength -= 1; conservative_strength -= 2; conservative_dissent += 2; kkk_strength += 5; kkk_militancy += 0.1;
+
+Congress votes to put Davis on trial. <span style="color: #7A1F5C;">**Radicals**</span> celebrate a stand for the Republic, while <span style="color: #9D2933;">**Moderates**</span> and <span style="color: #B5651D;">**Conservatives**</span> warn of the dangers: Southern resentment may explode, and a hostile court could even declare secession legal, threatening the legitimacy of Reconstruction.
+
