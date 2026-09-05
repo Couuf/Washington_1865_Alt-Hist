@@ -305,7 +305,7 @@ Oliver Morton is now an advisor. His iron grip on Indiana Republican politics is
 
 @add_butler
 title: Benjamin Butler
-subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective. {!<br><br>!} Actions - [? if president = "President" and year >= 1867: Apply Impeachment Pressure, ?] Appeal to Labor, Dig Up Opposition Research
+subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective. {!<br><br>!} Actions - [? if president = "Johnson" and year >= 1867: Apply Impeachment Pressure, ?] Appeal to Labor, Dig Up Opposition Research
 is-card: true
 card-image: img/portraits/Benjamin_Butler.jpg
 tags: radical_advisor
