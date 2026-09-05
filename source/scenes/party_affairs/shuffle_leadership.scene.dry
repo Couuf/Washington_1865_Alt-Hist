@@ -245,7 +245,7 @@ view-if: (difficulty = -1 and n_advisors < 4) or (difficulty > -1 and n_advisors
 
 @add_stevens
 title: Thaddeus Stevens
-subtitle: Leader of the <span style="color: #7A1F5C;">**Radical Republicans**</span> in the House. Uncompromising champion of equality.
+subtitle: Leader of the <span style="color: #7A1F5C;">**Radical Republicans**</span> in the House. Uncompromising champion of equality. {!<br><br>!} Actions - Clear the Agenda, Constitutional Reform, Radicalizing the Party
 is-card: true
 card-image: img/portraits/Thaddeus_Stevens.jpg
 tags: radical_advisor
@@ -257,7 +257,7 @@ Thaddeus Stevens is now an advisor.
 
 @add_sumner
 title: Charles Sumner
-subtitle: Senate leader of the <span style="color: #7A1F5C;">**Radical Republicans**</span>. Passionate abolitionist and champion of Black civil rights.
+subtitle: Senate leader of the <span style="color: #7A1F5C;">**Radical Republicans**</span>. Passionate abolitionist and champion of Black civil rights. {!<br><br>!} Actions - Champion the Freedmen, Push for Civil Rights Legislation, Apply Pressure in the Senate
 is-card: true
 card-image: img/portraits/Charles_Sumner.jpg
 tags: radical_advisor
@@ -269,7 +269,7 @@ Charles Sumner is now an advisor. His moral authority on questions of equality i
 
 @add_wade
 title: Benjamin Wade
-subtitle: Senate President Pro Tempore. <span style="color: #7A1F5C;">**Radical**</span> firebrand and potential president.
+subtitle: Senate President Pro Tempore. <span style="color: #7A1F5C;">**Radical**</span> firebrand and potential president. {!<br><br>!} Actions - Mobilize the Ohio Machine, Reach Out to Workers
 is-card: true
 card-image: img/portraits/Benjamin_F_Wade.jpg
 tags: radical_advisor
@@ -281,7 +281,7 @@ Benjamin Wade is now an advisor. His blunt radicalism energizes the party's left
 
 @add_chandler
 title: Zachariah Chandler
-subtitle: Michigan senator and aggressive <span style="color: #7A1F5C;">**Radical**</span> party organizer.
+subtitle: Michigan senator and aggressive <span style="color: #7A1F5C;">**Radical**</span> party organizer. {!<br><br>!} Actions - Enforce Party Discipline, Strengthen the Michigan Base, Emergency Party Fundraising
 is-card: true
 card-image: img/portraits/Zachariah_Chandler.jpg
 tags: radical_advisor
@@ -293,7 +293,7 @@ Zachariah Chandler is now an advisor. He lacks Stevens's philosophical depth but
 
 @add_morton
 title: Oliver Morton
-subtitle: Indiana governor and senator. One of the most powerful <span style="color: #7A1F5C;">**Radical**</span> party bosses in the country.
+subtitle: Indiana governor and senator. One of the most powerful <span style="color: #7A1F5C;">**Radical**</span> party bosses in the country. {!<br><br>!} Actions - Activate the Indiana Machine, Rally the Veterans, Support Southern Republicans
 is-card: true
 card-image: img/portraits/Oliver_Hazard_Perry_Morton.jpg
 tags: radical_advisor
@@ -305,7 +305,7 @@ Oliver Morton is now an advisor. His iron grip on Indiana Republican politics is
 
 @add_butler
 title: Benjamin Butler
-subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective.
+subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective. {!<br><br>!} Actions - [ ? if president = "c" and year >= 1867: Apply Impeachment Pressure, ? ] Appeal to Labor, Dig Up Opposition Research
 is-card: true
 card-image: img/portraits/Benjamin_Butler.jpg
 tags: radical_advisor
@@ -319,7 +319,7 @@ Benjamin Butler is now an advisor. His methods are controversial but his results
 
 @add_garfield
 title: James Garfield
-subtitle: Ohio war hero and rising <span style="color: #9D2933;">**Moderates**</span> star. Skilled master debater.
+subtitle: Ohio war hero and rising <span style="color: #9D2933;">**Moderates**</span> star. Skilled master debater. {!<br><br>!} Actions - Bridge Party Divisions, Appeal to the Middle Class, Focus on Policy Reform
 is-card: true
 card-image: img/portraits/James_Abram_Garfield.jpg
 tags: moderate_advisor
@@ -331,7 +331,7 @@ James Garfield is now an advisor. His broad appeal across factions makes him a v
 
 @add_sherman
 title: John Sherman
-subtitle: Ohio senator and fiscal <span style="color: #9D2933;">**Moderates**</span>. Brother of the general. The party's leading voice on economic policy.
+subtitle: Ohio senator and fiscal <span style="color: #9D2933;">**Moderates**</span>. Brother of the general. The party's leading voice on economic policy. {!<br><br>!} Actions - Improve Agricultural policy, Advance Fiscal Reform, Invoke the Legacy of **William Tecumseh Sherman**
 is-card: true
 card-image: img/portraits/John-Sherman.jpg
 tags: moderate_advisor
@@ -343,7 +343,7 @@ John Sherman is now an advisor. His command of financial policy gives us credibi
 
 @add_blaine
 title: James Blaine
-subtitle: Maine congressman. Ambitious, skilled, and broadly popular.
+subtitle: Maine congressman. Ambitious, skilled, and broadly popular. {!<br><br>!} Actions - Unify the **<span style="color: #7A1F5C;">Radicals</span>** and **<span style="color: #9D2933;">Moderates</span>**, **I HATE CATHOLICS!!**
 is-card: true
 card-image: img/portraits/James_G._Blaine.jpg
 tags: moderate_advisor
@@ -355,7 +355,7 @@ James Blaine is now an advisor. His national profile and political skill are con
 
 @add_hayes
 title: Rutherford Hayes
-subtitle: Ohioian. <span style="color: #9D2933;">**Moderates**</span>, honest, and broadly trusted.
+subtitle: Ohioian. <span style="color: #9D2933;">**Moderates**</span>, honest, and broadly trusted. {!<br><br>!} Actions - Appeal to Border State Unionists, Use Library Committee Influence, Strengthen Army Officer Loyalty
 is-card: true
 card-image: img/portraits/Rutherford_Hayes.jpg
 tags: moderate_advisor
@@ -367,7 +367,7 @@ Rutherford Hayes is now an advisor. His reputation for integrity is a useful cou
 
 @add_fish
 title: Hamilton Fish
-subtitle: New York <span style="color: #9D2933;">**Moderates**</span>. A steady hand on foreign policy.
+subtitle: New York <span style="color: #9D2933;">**Moderates**</span>. A steady hand on foreign policy. {!<br><br>!} Actions - 
 is-card: true
 card-image: img/portraits/Hamilton_Fish.jpg
 tags: moderate_advisor
@@ -381,7 +381,7 @@ Hamilton Fish is now an advisor. His diplomatic experience opens doors abroad th
 
 @add_conkling
 title: Roscoe Conkling
-subtitle: New York machine boss and dominant <span style="color: #B5651D;">**Conservative**</span> figure. Controls the Custom House.
+subtitle: New York machine boss and dominant <span style="color: #B5651D;">**Conservative**</span> figure. Controls the Custom House. {!<br><br>!} Actions - Strengthen International Relations, Consolidate the New York Organization, Conduct Foreign Policy
 is-card: true
 card-image: img/portraits/Roscoe_Conkling.jpg
 tags: conservative_advisor
@@ -393,7 +393,7 @@ Roscoe Conkling is now an advisor. His machine delivers votes and money at a pri
 
 @add_cameron
 title: Simon Cameron
-subtitle: Pennsylvania party boss and former Secretary of War. Old-guard patronage politician.
+subtitle: Pennsylvania party boss and former Secretary of War. Old-guard patronage politician. {!<br><br>!} Actions - Draw on War Department Experience, Mobilize the Cameron Machine, Strengthen the Conservative Wing
 is-card: true
 card-image: img/portraits/Smn_Cameron.jpg
 tags: conservative_advisor
@@ -405,7 +405,7 @@ Simon Cameron is now an advisor. His Pennsylvania machine is a formidable asset,
 
 @add_seward
 title: William Seward
-subtitle: Secretary of State and former Whig leader. Pragmatic <span style="color: #B5651D;">**Conservative**</span>.
+subtitle: Secretary of State and former Whig leader. Pragmatic <span style="color: #B5651D;">**Conservative**</span>. {!<br><br>!} Actions - Shape American Foreign Policy, Expand American Commerce, Promote American Expansion
 is-card: true
 card-image: img/portraits/Seward.jpg
 tags: conservative_advisor
@@ -419,7 +419,7 @@ William Seward is now an advisor. His long experience in government is valuable,
 
 @add_schurz
 title: Carl Schurz
-subtitle: Missouri senator and intellectual leader of the <span style="color: #DAA520;">**Liberal Republicans**</span> movement. Champion of civil service reform.
+subtitle: Missouri senator and intellectual leader of the <span style="color: #DAA520;">**Liberal Republicans**</span> movement. Champion of civil service reform. {!<br><br>!} Actions - Rally German Immigrant Communities, Strengthen Missouri Republicans, Advise on Interior Policy
 is-card: true
 card-image: img/portraits/Schurz,_Hon._Carl.jpg
 tags: liberal_advisor
@@ -431,7 +431,7 @@ Carl Schurz is now an advisor. His reform credentials and German-American connec
 
 @add_trumbull
 title: Lyman Trumbull
-subtitle: Illinois senator. Drifting steadily toward the <span style="color: #DAA520;">**Liberal Republicans**</span>.
+subtitle: Illinois senator. Drifting steadily toward the <span style="color: #DAA520;">**Liberal Republicans**</span>. {!<br><br>!} Actions - Advise on Judicial Affairs, Strengthen Illinois Republicans, Reassure the **<span style="color: #DAA520;">Liberal Republicans</span>**
 is-card: true
 card-image: img/portraits/Lyman_Trumbull.jpg
 tags: liberal_advisor
@@ -443,7 +443,7 @@ Lyman Trumbull is now an advisor. His legal expertise is valuable.
 
 @add_cox
 title: Jacob Cox
-subtitle: Ohio politician and Committed reformer.
+subtitle: Ohio politician and Committed reformer. {!<br><br>!} Actions - Strengthen the <span style="color: #DAA520;">**Liberal Republicans**</span>, Host a <span style="color: #c00000;">**Republican**</span> rally, Strengthen Ohio Republicans
 is-card: true
 card-image: img/portraits/Jacob_Cox.jpg
 tags: liberal_advisor
@@ -456,8 +456,8 @@ Jacob Cox is now an advisor. His reform credentials are genuine, and his Ohio co
 ###################### NONFACTIONAL ADVISORS
 
 @add_douglass
-title: Frederick Douglass
-subtitle: The most prominent Black leader in America. His endorsement carries enormous weight with the freedmen community.
+title: Frederick Douglass 
+subtitle: The most prominent Black leader in America. His endorsement carries enormous weight with the freedmen community. {!<br><br>!} Actions - Mobilize the Freedmen, Northern Moral Appeal, Leverage International Reputation
 is-card: true
 card-image: img/portraits/Frederick_Douglass.jpg
 tags: nonfactional_advisor
