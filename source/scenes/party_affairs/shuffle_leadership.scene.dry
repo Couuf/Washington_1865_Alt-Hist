@@ -305,7 +305,7 @@ Oliver Morton is now an advisor. His iron grip on Indiana Republican politics is
 
 @add_butler
 title: Benjamin Butler
-subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective. {!<br><br>!} Actions - [ ? if president = "c" and year >= 1867: Apply Impeachment Pressure, ? ] Appeal to Labor, Dig Up Opposition Research
+subtitle: Controversial Massachusetts <span style="color: #7A1F5C;">**Radical**</span>. Ruthless and effective. {!<br><br>!} Actions - [? if president = "c" and year >= 1867: Apply Impeachment Pressure, ?] Appeal to Labor, Dig Up Opposition Research
 is-card: true
 card-image: img/portraits/Benjamin_Butler.jpg
 tags: radical_advisor
@@ -367,7 +367,7 @@ Rutherford Hayes is now an advisor. His reputation for integrity is a useful cou
 
 @add_fish
 title: Hamilton Fish
-subtitle: New York <span style="color: #9D2933;">**Moderates**</span>. A steady hand on foreign policy. {!<br><br>!} Actions - 
+subtitle: New York <span style="color: #9D2933;">**Moderates**</span>. A steady hand on foreign policy. {!<br><br>!} Actions - Strengthen International Relations, Consolidate the New York Organization, Conduct Foreign Policy
 is-card: true
 card-image: img/portraits/Hamilton_Fish.jpg
 tags: moderate_advisor
@@ -381,7 +381,7 @@ Hamilton Fish is now an advisor. His diplomatic experience opens doors abroad th
 
 @add_conkling
 title: Roscoe Conkling
-subtitle: New York machine boss and dominant <span style="color: #B5651D;">**Conservative**</span> figure. Controls the Custom House. {!<br><br>!} Actions - Strengthen International Relations, Consolidate the New York Organization, Conduct Foreign Policy
+subtitle: New York machine boss and dominant <span style="color: #B5651D;">**Conservative**</span> figure. Controls the Custom House. {!<br><br>!} Actions - Leverage Custom House Patronage, Dominate Post Office Appointments, Strengthen Immigrant Networks
 is-card: true
 card-image: img/portraits/Roscoe_Conkling.jpg
 tags: conservative_advisor
